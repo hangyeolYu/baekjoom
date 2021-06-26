@@ -2,7 +2,7 @@ package baek_1157;
 
 import java.io.*;
 
-public class Main {
+public class Main {//완료
     public static void main(String[] args) throws IOException {///////백줌 문자열 변환 문제 카톡방 링크
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));//버퍼로 받고
