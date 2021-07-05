@@ -31,7 +31,14 @@ public class Main {//완료      인트형으로 시작해서 틀림 더블형�
         }
         System.out.println(temp/N);
 
+        //int box = Math.max(int x, int y); 두 수를 비교해 큰수를 box에 담는다
+
+        //int max = 0;
+        //    for (int i : original) {
+        //      max = Math.max(max, i);
+        //    } 이치 포문으로 돌리면서 할수있다
 
 
-    }
+
+   다}
 }
