@@ -11,6 +11,7 @@ public class Main{ //완료
         int N = Integer.parseInt(br.readLine());//Buffer는 문자열로 받으니 인트로 형변환 한걸 변수에 넣어놈
 
         int cnt = 0;//카운터 변수
+
         int copy = N;
 
         do {//do while  쓴건 if 를 써도 되나 무조건 한번은 돌아야 하니 만약 if 를 쓸꺼면 식 밑에 오도록 해서 한번은 돌게 하자
